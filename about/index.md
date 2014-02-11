@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+Systems Developer at Warrant Group mostly dealing with PHP, Javascript type things.
